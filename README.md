@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1600x900.jpg) -->
 ### Hi👋, Gaayana Revanna here
-**`Digital Craftsman (Computer Science and Engineering Graduate | Aspiring Data Scientist | Data Enthusiast )`**
+**`Computer Science and Engineering Graduate | Aspiring Data Scientist | Data Enthusiast `**
 
 <p align="left">
 Passionate about data-driven solutions with a strong foundation in computer science and engineering. Seeking opportunities to contribute to impactful projects and make a meaningful impact. Eager to stay updated with the latest advancements in data science and machine learning.
