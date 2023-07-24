@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1600x900.jpg) -->
-# Hi, Gaayana Revanna here
+### Hi👋, Gaayana Revanna here
 **`Digital Craftsman (Computer Science and Engineering Graduate | Aspiring Data Scientist | Data Enthusiast )`**
 
 <p align="left">
